@@ -1,2 +1,2 @@
 # sigma
-Agile traning course
+Agile training course
